@@ -64,7 +64,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 |  [MCP-Powered Agentic RAG](#) | LLM agent that autonomously retrieves context using Anthropic's MCP | LangGraph, MCP, RAG |
-|  [LLM Selection Pipeline](#) | Benchmarks frontier LLMs across RAG, Vision & Multi-agent tasks | LangChain, RAGAS, Python |
+|  [LLM Selection Pipeline](https://github.com/RuchithaHA/llm-selection-pipeline) | Benchmarks frontier LLMs across RAG, Vision & Multi-agent tasks | LangChain, RAGAS, Python |
 |  [Zero-Day Attack Detection](#) | Federated Learning + Autoencoder IDS deployed as Flask app | PyTorch, FedAvg, Flask |
 |  [Real-Time Exam Proctoring](#) | Gaze + head-pose detection API with <200ms latency | MediaPipe, REST API |
 
