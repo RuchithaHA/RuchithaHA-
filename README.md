@@ -18,7 +18,7 @@
 ### About Me
 
 -  MCA fresher with **production-grade experience** in **Agentic AI, RAG pipelines & LLM applications**
--  Recently interned at **Excelsoft Technologies, Mysuru** — built MCP-powered AI agents & LLM benchmarking systems
+-  Recently interned at **Excelsoft Technologies, Mysuru** — built MCP-powered AI agents  & LLM benchmarking systems
 -  Currently exploring **LangGraph multi-agent orchestration** and **LLM fine-tuning with LoRA**
 -  Ask me about **LangChain, RAG, MCP, Vector Databases, Prompt Engineering**
 -  Reach me at: **ruchitha.ha06@gmail.com**
